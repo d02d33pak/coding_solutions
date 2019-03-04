@@ -1,6 +1,8 @@
 # coding_solutions
 a repo of all the solutions to the programming problem I solve online
 
+> you are more than welcome to provide better solution to these problems
+
 
 | # | Problem Statement | Level |  Java | Python | C++ |
 | --- | --- | --- | --- | ---- | --- |
