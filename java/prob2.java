@@ -6,6 +6,9 @@
  *     ListNode(int x) { val = x; }
  * }
  */
+//FIRST ATTEMPT SOLUTION 
+//DOES NOT WORK FOR [0] [0] AS I AM DOING SUM CHECK FOR 0
+//ALSO MY FIRST TIME ACTUALLY USING RECURSION IN ANY SOLUTION
 class Solution {
     
     public ListNode crtList(int sum) {
