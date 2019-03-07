@@ -4,7 +4,7 @@ public:
         map <int, int> myMap;
         for (int i = 0; i < nums.size(); i++) {
             int diff = target - nums[i];
-            if (myMap.find(diff) != myMap.end()) {
+            if (myMap.find(diff) != myMap.end()) { //fix this
                 return {myMap[diff], i,};
             }
             else {
