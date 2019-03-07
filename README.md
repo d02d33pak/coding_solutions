@@ -3,8 +3,8 @@ a repo of all the solutions to the programming problem I solve online
 
 > you are more than welcome to provide better solution to these problems
 
-most of the problems will be solved in Java first, so if you want to see my trial and error process check Java solutions first
-PS: don't judge 
+most of the problems will be solved in Java first, so if you want to see my trial and error process check Java solutions first  
+PS: _don't judge_ 
 
 | # | Problem Statement | Level |  Java | Python | C++ |
 | --- | --- | --- | --- | ---- | --- |
